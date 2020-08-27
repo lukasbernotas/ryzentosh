@@ -9,7 +9,7 @@ If you are struggling to make your own config.plist or you are just lazy, this E
 * MSI B450 Tomahawk MAX
 * XFX RADEON RX 580  
 
-If you have the exact hardware no further configuration should be required because the OC folder already contains correct kexts, drivers and config.plist with applied kernel patch for Ryzen processor.
+If you have the exact hardware no further configuration should be required because the OC folder already contains correct kexts, drivers and config.plist with applied kernel patch for Ryzen processor. Audio, Ethernet and other essential desktop pc things are working flawlessly.
 
 ## Note
 There is a high chance that by the time you are reading this OpenCore was updated several times. If that is the case make sure to check the config.plist for deprecated options on [OpenCore Sanity Checker](https://opencore.slowgeek.com/) and adjust it with the tools provided in the offical guide.
