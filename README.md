@@ -13,3 +13,5 @@ If you have the exact hardware no further configuration should be required becau
 
 ## Note
 There is a high chance that by the time you are reading this OpenCore was updated several times. If that is the case make sure to check the config.plist for deprecated options on [OpenCore Sanity Checker](https://opencore.slowgeek.com/) and adjust it with the tools provided in the offical guide.
+
+![alt](https://raw.githubusercontent.com/lukasbernotas/ryzentosh/master/Screenshot%202020-08-27%20at%2012.29.05.png)
